@@ -1,0 +1,39 @@
+1. What is python?
+    Python is a high level and easy to understand programming language, it mean's this is writte like a code but it's sound like a normal english
+    word.
+
+Example:-
+    a = 18
+        if a>=18:
+        print("you can vote")
+        else:
+        print("you can't vote")
+
+2. What is programming and coding?
+    
+    Programming:-
+    Programming is an end to end process of understanding a problems, designing a logical solutions, implementing through code, testing for
+    correctness and maintaining or update for future needs.
+
+    Coding:- 
+    Instructions write in computer language, it is also part of programming.
+
+3. Why python?
+    Python is a human friendly programming language.
+
+i) Open source:-
+    Python is an open source programming language, you can download it free on your device.
+
+ii) Multi platforms:-
+    python supports on various operating syatem like windows, linux, mac and etc, without any major or minor changes.
+
+iii) Strong community:-
+    Python have millions of developers on stack and github, this helps to solve any problems quickly you face.
+
+iv) Versatility:-
+    Python is an versatile progrmming language it is using in web development, data science, machine learning, automations, ai and robotics.
+
+4. History of python?
+    Python was developed by Guido Van Rossum in 1989 and release in 1991, the name of Python not taken from any reptile. Name of python actually
+    taken from british comedy series, series name is "Monty Flying Python Circus".
+        
