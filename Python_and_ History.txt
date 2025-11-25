@@ -36,7 +36,7 @@ iv) Versatility:-
 4) What is case sensitive and type language in python?
     
     Case sensitive:-
-    case s 
+    case sensitive
 
 5.) History of python?
     Python was developed by Guido Van Rossum in 1989 and release in 1991, the name of Python not taken from any reptile. Name of python actually
