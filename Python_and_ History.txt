@@ -33,7 +33,12 @@ iii) Strong community:-
 iv) Versatility:-
     Python is an versatile progrmming language it is using in web development, data science, machine learning, automations, ai and robotics.
 
-4. History of python?
+4) What is case sensitive and type language in python?
+    
+    Case sensitive:-
+    case s 
+
+5.) History of python?
     Python was developed by Guido Van Rossum in 1989 and release in 1991, the name of Python not taken from any reptile. Name of python actually
     taken from british comedy series, series name is "Monty Flying Python Circus".
         
